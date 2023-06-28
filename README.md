@@ -1,4 +1,4 @@
-#Esse diretorio foi criado com o unico proposito de anexar os codigos em HTML e CSS usados para fazer uma atividade solicitada em sala
+###Esse diretorio foi criado com o unico proposito de anexar os codigos em HTML e CSS usados para fazer uma atividade solicitada em sala
 
 ## Atividade solicitada: Crie uma página com HTML e CSS.
 Essa página é uma página de apresentação do tema a sua escolha, onde deverá
